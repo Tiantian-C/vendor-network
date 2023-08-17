@@ -13,6 +13,6 @@ variable "private_subnets"{
     default =["10.10.0.0/24","10.10.1.0/24"]
 }
 
-variable "availablility_zones"{
+variable "availability_zones"{
     default = ["us-east-1a","us-east-1b"]
 }
