@@ -1,4 +1,4 @@
-variable "aws_region {}
+variable "aws_region" {}
 
 variable "app_name"{
     description ="Name of the app"
